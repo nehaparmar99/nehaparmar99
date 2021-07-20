@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Neha's github stats](https://github-readme-stats.vercel.app/api?username=nehaparmar99)](https://github.com/nehaparmar99/github-readme-stats)
+[![Neha's github stats](https://github-readme-stats.vercel.app/api?username=nehaparmar99&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/nehaparmar99/github-readme-stats)
 
