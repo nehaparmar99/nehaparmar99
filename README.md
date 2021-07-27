@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![profile count](https://komarev.com/ghpvc/?username=AditiKhandelwal&color=green)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=nehaparmar99&color=green)&nbsp;
 
 ### 🛠 &nbsp;Languages
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
